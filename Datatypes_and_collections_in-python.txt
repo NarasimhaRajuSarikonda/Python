@@ -1,0 +1,15 @@
+Data types in python
+
+1. int
+2. float
+3. string
+4. boolean
+5. complex
+
+Collections in python
+
+1. list
+2. tuple
+3. set
+4. dictionary
+
